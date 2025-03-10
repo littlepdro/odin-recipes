@@ -2,7 +2,11 @@
 h1 {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    color:blueviolet
+    color:white;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
 }
 
 a {
@@ -27,4 +31,29 @@ a {
     width: 70%;
   }
 
+.homepage {
+    margin: 0;
+    padding: 10px;
+    background-color: rgb(47, 95, 255);
+}
 
+.recipestab {
+    margin-top: -20px;
+    background-color: darkblue;
+    color: white;
+}
+
+.Credits {
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: -16px;
+    padding: 10px;
+    background-color: rgb(47, 95, 255);
+}
+
+.DEVELOPMENT {
+    display: block;
+    padding: 5px;
+}
